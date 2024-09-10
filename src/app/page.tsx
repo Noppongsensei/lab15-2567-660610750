@@ -2,9 +2,9 @@
 
 import TermsAndCondsModal from "@components/TermsAndCondsModal";
 import Footer from "@components/Footer";
-
 import { useDisclosure } from "@mantine/hooks";
 import { runningPlans } from "@lib/runningPlans";
+
 import {
   Anchor,
   Button,
